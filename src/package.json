@@ -1,0 +1,14 @@
+{
+  "name": "react-playground",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/zzloxr09mp",
+  "main": "index.js",
+  "dependencies": {
+    "react": "17.0.0",
+    "react-dom": "16.14.0",
+    "react-flexbox-grid": "2.1.0",
+    "rxjs": "6.6.3"
+  }
+}
